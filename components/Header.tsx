@@ -9,6 +9,7 @@ export const Header: React.FC = () => {
       <div className="text-sm md:text-base text-gray-300 space-y-1">
         <p>Pastor Presidente: Pr. Ailton José Alves</p>
         <p>Pastor Setorial: Pr. Sergio Correia</p>
+       <p>Supervisão das ceads</p>
       </div>
       <div className="mt-4 pt-4 border-t border-gray-600">
         <p className="font-medium text-blue-100">Sistema de Controle e Acompanhamento de Atividades</p>
